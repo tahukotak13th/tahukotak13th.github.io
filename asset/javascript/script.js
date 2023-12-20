@@ -7,7 +7,7 @@ const ndaBtn = document.querySelector(".nda-btn");
 bolehBtn.addEventListener("click", () => {
 	question.innerHtml = "terima kasihh,lewat dana aja yaa";
 	gif.src =
-	"images.jpeg";
+	"asset/images/images.jpeg";
 });
 
 ndaBtn.addEventListener("mouseover",() => {
