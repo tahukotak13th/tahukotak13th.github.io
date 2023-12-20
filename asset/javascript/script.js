@@ -5,7 +5,7 @@ const bolehBtn = document.querySelector(".boleh-btn");
 const ndaBtn = document.querySelector(".nda-btn");
 
 bolehBtn.addEventListener("click", () => {
-	question.innerHtml = "terima kasihh,lewat dana aja yaa";
+	question.innerhtml = "terima kasihh,lewat dana aja yaa";
 	img.src =
 	"asset/images/images.jpeg";
 });
